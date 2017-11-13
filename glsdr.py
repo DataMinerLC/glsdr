@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  8 14:05:25 2017
 
-@author: Liwei
+@author: LC
 """
 from bs4 import BeautifulSoup
 import re
